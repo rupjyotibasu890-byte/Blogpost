@@ -1,0 +1,50 @@
+/* Tag selector */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+  margin: 0;
+  padding: 20px;
+  line-height: 1.6;
+}
+
+/* ID selector */
+#main-title {
+  font-size: 2.8rem;
+  color: #2c3e50;
+  margin-bottom: 10px;
+  border-bottom: 3px solid #3498db;
+  padding-bottom: 5px;
+  font-weight: 700;
+}
+
+/* Class selector */
+.author {
+  font-size: 0.9rem;
+  color: #7f8c8d;
+  margin-bottom: 30px;
+  font-style: italic;
+}
+
+/* Class selector */
+.post-content {
+  background-color: white;
+  padding: 25px 30px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  font-size: 1.1rem;
+  color: #444;
+}
+
+/* Tag selector */
+h2 {
+  font-size: 1.8rem;
+  margin-top: 0;
+  color: #2980b9;
+  margin-bottom: 15px;
+}
+
+/* Tag selector */
+p {
+  margin-bottom: 20px;
+}
